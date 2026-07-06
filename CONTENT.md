@@ -124,6 +124,13 @@ Kol kas paliekam inicialus
 ### Projektas 5
 Sukūriau visą LLM dalį šiame moksliniame darbe https://www.researchgate.net/publication/404593004_ABSTRACT_NUMBER_ESOC2026A2214_COMBINING_A_LARGE_LANGUAGE_MODEL_WITH_TRADITIONAL_SOFTWARE_ENGINEERING_TOOLS_FOR_AUTOMATED_RES-Q_REGISTRY_VARIABLE_EXTRACTION
 
+### Projektas 6
+- **Pavadinimas:** 👉 Lietuvių kalbos automatinio kalbos atpažinimo (ASR) modelis
+- **Aprašymas (1–2 sakiniai):** 👉 Lietuvių kalbos automatinio kalbos atpažinimo (ASR) modelis, pritaikytas (fine-tuned) iš NVIDIA nemotron-3.5-asr-streaming-0.6b. Cache-aware streaming RNNT (real-time), ~600M parametrų. Treniruotas ant LIEPA-3 (lietuvių garsynas) ir lietuviško medicininio diktavimo rinkinio
+- **Naudotos technologijos:** 👉 NVIDIA NeMo
+- **Nuoroda (GitHub/demo):** 👉 https://huggingface.co/VULSK/nemotron-asr-streaming-0.6b-medical-lt
+
+
 ## 11. Kalbos
 
 - Lithuanian — Native
